@@ -1,5 +1,5 @@
 Start by going to whatsmyname.app and looking up the username.
-![screenshot1]((https://github.com/lucasballr/OSUSEC/blob/target_practice/Screen Shot 2021-10-30 at 3.52.47 PM.png?raw=true))
+![screenshot1](https://github.com/lucasballr/OSUSEC/blob/target_practice/sc1.png?raw=true)
 
 This finds a twitter account: [https://twitter.com/anonhunter26](https://twitter.com/anonhunter26 "https://twitter.com/anonhunter26")
 
