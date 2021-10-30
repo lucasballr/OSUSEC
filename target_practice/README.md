@@ -1,6 +1,8 @@
 Start by going to whatsmyname.app and looking up the username.
-![[Screen Shot 2021-10-30 at 3.52.47 PM.png]]
+![screenshot1]((https://github.com/lucasballr/OSUSEC/blob/target_practice/Screen Shot 2021-10-30 at 3.52.47 PM.png?raw=true))
+
 This finds a twitter account: [https://twitter.com/anonhunter26](https://twitter.com/anonhunter26 "https://twitter.com/anonhunter26")
+
 At this twitter account, there's another user mentioned: @hatebav2ropc
 ![[Screen Shot 2021-10-30 at 4.00.28 PM.png]]
 Putting that username into the program gives a github link: [https://github.com/hatebav2ropc/useful-osint-links](https://github.com/hatebav2ropc/useful-osint-links "https://github.com/hatebav2ropc/useful-osint-links")
