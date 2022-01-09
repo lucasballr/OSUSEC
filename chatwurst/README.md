@@ -77,7 +77,7 @@ The content in the request consists of a username and password, so I created a P
 ```
 URL: http://chatwurst.ctf-league.osusec.org/create_user
 Content: {"username":"balll", "password":"test"}
-
+```
 Next we see that the getGroups function uses a username and password hashmap as a credential then a user_id to get the groups that the user is affiliated with. I assumed the user_id for the FizzbuzzMcFlurry account was a low number so I chose 1 as the user_id:
 ```
 URL: http://chatwurst.ctf-league.osusec.org/get_groups
