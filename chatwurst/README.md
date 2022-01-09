@@ -81,7 +81,7 @@ Content: {"username":"balll", "password":"test"}
 Next we see that the getGroups function uses a username and password hashmap as a credential then a user_id to get the groups that the user is affiliated with. I assumed the user_id for the FizzbuzzMcFlurry account was a low number so I chose 1 as the user_id:
 ```
 URL: http://chatwurst.ctf-league.osusec.org/get_groups
-Content: {"credential":{"username":"ball","password":"test"}, "user_id": 1}
+Content: {"credential":{"username":"balll","password":"test"}, "user_id": 1}
 ```
 
 After recieving the group list of the user, I found there was a group with a bunch of users: Group 9
@@ -90,7 +90,7 @@ The getMessages function sends a POST request to http://chatwurst.ctf-league.osu
 
 ```
 URL: http://chatwurst.ctf-league.osusec.org/get_messages
-Content: {"credential":{"username":"ball","password":"test"}, "group_id": 9}
+Content: {"credential":{"username":"balll","password":"test"}, "group_id": 9}
 ```
 This returned a list of all the messages in the group. Inside this message was the flag.
 
